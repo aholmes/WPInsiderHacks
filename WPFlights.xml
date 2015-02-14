@@ -24,6 +24,16 @@
                 <Value>RM-975_1005</Value>
                 <ValueType>1</ValueType>
               </RegistryKeyValue>
+              <RegistryKeyValue>
+                <Name>PhoneMobileOperatorName</Name>
+                <Value>ATT-US</Value>
+                <ValueType>1</ValueType>
+              </RegistryKeyValue>
+              <RegistryKeyValue>
+                <Name>PhoneMobileOperatorDisplayName</Name>
+                <Value>ATT</Value>
+                <ValueType>1</ValueType>
+              </RegistryKeyValue>
             </Values>
           </RegistryKey>
         </KeysToAdd>
